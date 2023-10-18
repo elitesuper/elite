@@ -10,8 +10,8 @@ const Portfolio = () => {
 
   const filteredItems =
     filter === "*"
-      ? items.slice(51, 55)
-      : items.slice(51, 55).filter((item) => item.category.includes(filter));
+      ? items.slice(60, 68)
+      : items.slice(60, 68).filter((item) => item.category.includes(filter));
 
   return (
     <>
@@ -45,28 +45,40 @@ const Portfolio = () => {
               </li>
 
               <li
-                className={filter === "design" ? "is-checked" : ""}
-                onClick={() => setFilter("design")}
+                className={filter === "react" ? "is-checked" : ""}
+                onClick={() => setFilter("react")}
               >
-                Design
+                React
               </li>
               <li
-                className={filter === "branding" ? "is-checked" : ""}
-                onClick={() => setFilter("branding")}
+                className={filter === "nextjs" ? "is-checked" : ""}
+                onClick={() => setFilter("nextjs")}
               >
-                Branding
+                Next.js
               </li>
               <li
-                className={filter === "logo" ? "is-checked" : ""}
-                onClick={() => setFilter("logo")}
+                className={filter === "vuejs" ? "is-checked" : ""}
+                onClick={() => setFilter("vuejs")}
               >
-                Logo
+                Vue.js
               </li>
               <li
-                className={filter === "illustration" ? "is-checked" : ""}
-                onClick={() => setFilter("illustration")}
+                className={filter === "angular" ? "is-checked" : ""}
+                onClick={() => setFilter("angular")}
               >
-                Illustration
+                Angular
+              </li>
+              <li
+                className={filter === "wordpress" ? "is-checked" : ""}
+                onClick={() => setFilter("wordpress")}
+              >
+                WordPress
+              </li>
+              <li
+                className={filter === "laravel" ? "is-checked" : ""}
+                onClick={() => setFilter("laravel")}
+              >
+                Laravel
               </li>
             </ul>
           </div>
@@ -82,7 +94,7 @@ const Portfolio = () => {
                 key={index}
               >
                 <div className="portfolio-block-one mt-40 xs-mt-30">
-                  <div className="img-meta">
+                  <div className="img-meta border-top shadow-sm">
                     <Image
                       width={640}
                       height={666}

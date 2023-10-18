@@ -659,7 +659,6 @@ module.exports = [
       projectType: "UI/UX, Web Design",
     },
   },
-
   {
     id: 56,
     imgSrc: "/images/gallery/img_05.jpg",
@@ -705,4 +704,101 @@ module.exports = [
     captionTags: "Code",
     captionTitle: "The code Honors",
   },
+  {
+    id: 61,
+    category: "react",
+    image: "/images/gallery/img_001.PNG",
+    name: "www.karststonepaper.com",
+    tag: "React",
+    projectInfo: {
+      date: "23 July, 2020",
+      clientName: "Mariona Adisson, USA",
+      projectType: "Web Development",
+    },
+  },
+  {
+    id: 62,
+    category: "angular",
+    image: "/images/gallery/img_002.PNG",
+    name: "www.volotea.com",
+    tag: "Angular",
+    projectInfo: {
+      date: "23 July, 2020",
+      clientName: "Mariona Adisson, USA",
+      projectType: "UI/UX, Web Design",
+    },
+  },
+  {
+    id: 63,
+    category: "nextjs",
+    image: "/images/gallery/img_003.PNG",
+    name: "coastpay.com",
+    tag: "Nextjs",
+    projectInfo: {
+      date: "23 July, 2020",
+      clientName: "Mariona Adisson, USA",
+      projectType: "UI/UX, Web Design",
+    },
+  },
+  {
+    id: 64,
+    category: "laravel",
+    image: "/images/gallery/img_004.PNG",
+    name: "hrcontact.co",
+    tag: "Laravel",
+    projectInfo: {
+      date: "23 July, 2020",
+      clientName: "Mariona Adisson, USA",
+      projectType: "UI/UX, Web Design",
+    },
+  },
+  {
+    id: 65,
+    category: "laravel",
+    image: "/images/gallery/img_005.PNG",
+    name: "lexani.com",
+    tag: "Laravel",
+    projectInfo: {
+      date: "23 July, 2020",
+      clientName: "Mariona Adisson, USA",
+      projectType: "UI/UX, Web Design",
+    },
+  },
+  {
+    id: 66,
+    category: "nextjs",
+    image: "/images/gallery/img_006.PNG",
+    name: "ray.care",
+    tag: "Nextjs",
+    projectInfo: {
+      date: "23 July, 2020",
+      clientName: "Mariona Adisson, USA",
+      projectType: "UI/UX, Web Design",
+    },
+  },
+  {
+    id: 67,
+    category: "wordpress",
+    image: "/images/gallery/img_007.PNG",
+    name: "spitfirehomes.co.uk",
+    tag: "WordPress",
+    projectInfo: {
+      date: "23 July, 2020",
+      clientName: "Mariona Adisson, USA",
+      projectType: "UI/UX, Web Design",
+    },
+  },
+  {
+    id: 68,
+    category: "vuejs",
+    image: "/images/gallery/img_008.PNG",
+    name: "www.ekhartyoga.com",
+    tag: "Vuejs",
+    projectInfo: {
+      date: "23 July, 2020",
+      clientName: "Mariona Adisson, USA",
+      projectType: "UI/UX, Web Design",
+    },
+  },
+
 ];
