@@ -1,12 +1,16 @@
 const Skills = () => {
   const skills = [
-    { name: "Great Interface", bgColor: "#FFF8F8" },
-    { name: "Experienced", bgColor: "#E4FCF9" },
-    { name: "Low Price", bgColor: "#E5F4FB" },
-    { name: "Customizable", bgColor: "#FFF9E6" },
-    { name: "Marketing", bgColor: "#F9EDFF" },
-    { name: "Great Support", bgColor: "#F0F9E0" },
-    { name: "Safe", bgColor: "#FFF0F0" },
+    { name: "Problem Solving", bgColor: "#FFF8F8" },
+    { name: "Programming Languages", bgColor: "#E4FCF9" },
+    { name: "Data Structures and Algorithms", bgColor: "#E5F4FB" },
+    { name: "Debugging", bgColor: "#FFF9E6" },
+    { name: "System Design", bgColor: "#F9EDFF" },
+    { name: "Testing and Validation", bgColor: "#F0F9E0" },
+    { name: "Code Versioning", bgColor: "#FFF0F0" },
+    { name: "Database Management", bgColor: "#F5F8FA" },
+    { name: "Machine Learning", bgColor: "#E0F7FA" },
+    { name: "DevOps", bgColor: "#ECEFF1" },
+    { name: "Frontend/Backend Development", bgColor: "#E1BEE7" },
     // Add more skills here as needed
   ];
 
