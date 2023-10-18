@@ -3,7 +3,7 @@ const Block = () => {
     {
       iconSrc: "/images/icon/icon_39.svg",
       bgColor: "#EBF8F8",
-      title: "Product & Brand Designer",
+      title: "Product & Project Manager",
     },
     {
       iconSrc: "/images/icon/icon_40.svg",
@@ -13,7 +13,7 @@ const Block = () => {
     {
       iconSrc: "/images/icon/icon_41.svg",
       bgColor: "#F3F5FF",
-      title: "Online Marketing",
+      title: "Agile Team Management",
     },
   ];
 

@@ -47,7 +47,7 @@ const Hero = () => {
           data-aos="fade-up"
           data-aos-delay="200"
         >
-          Hi, I’m <span className="fw-500">Rashed</span>
+          Hi, I’m a <span className="fw-500">Software Engineer</span>
         </div>
         <div className="row">
           <div
@@ -56,7 +56,7 @@ const Hero = () => {
             data-aos-delay="300"
           >
             <h1 className="hero-heading fw-500 font-recoleta tx-dark mb-65 lg-mb-40">
-              Building digital products, brands &amp; expereince
+            Developing software solutions, systems &amp; user  expereince
             </h1>
           </div>
           <div
@@ -65,7 +65,7 @@ const Hero = () => {
             data-aos-delay="400"
           >
             <p className="text-lg pe-xxl-4 ps-xxl-4 mb-75 lg-mb-50">
-              Janu is your online team mangement tool that easy and prompt
+              Designing, coding, and debugging software applications, while creating efficient systems and enhancing user experience.
             </p>
           </div>
         </div>
