@@ -3,12 +3,12 @@ import React from "react";
 const Education = () => {
   const educationItems = [
     {
-      degree: "Bachelor Degree of design.",
-      university: "University of Boston, USA",
+      degree: "Bachelor of Computer Science (BCompSc)",
+      university: "University of Toronto, CANADA",
     },
     {
-      degree: "UI/UX Design",
-      university: "University of Vegas, USA",
+      degree: "Bachelor of Computer Engineering (BCompEg)",
+      university: "University of Waterloo, USA",
     },
   ];
 

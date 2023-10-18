@@ -338,19 +338,19 @@ const PersonalPortfolio = () => {
 
             <div className="col-lg-4 mb-30 d-flex justify-content-center justify-content-lg-end order-lg-3">
               <a
-                href="mailto:support@jano.com"
+                href="mailto:agiletechgroup.service@gmail.com"
                 className="mail d-flex align-items-center"
               >
                 <span className="icon d-flex align-items-center justify-content-center rounded-circle">
                   <i className="far fa-envelope" />
                 </span>
-                <span>support@jano.com</span>
+                <span>agiletechgroup.service@gmail.com</span>
               </a>
             </div>
             {/* End .col-lg-4 */}
 
             <div className="col-lg-4 mb-30 order-lg-2">
-              <Social />
+              {/* <Social /> */}
             </div>
             {/* End .col-lg-4 */}
           </div>

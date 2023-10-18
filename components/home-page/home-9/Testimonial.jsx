@@ -28,41 +28,41 @@ const Testimonial = () => {
   const testimonialData = [
     {
       id: 1,
-      name: "Martin Jonas",
-      location: "USA",
+      name: "Karan",
+      location: "INDIA",
       rating: 5,
       content:
-        "The passage experienced a surgu popularity during the ios when Letraset used it on their lor bonord dry-transfer sheets &amp; again during the sample.",
+        "Their exceptional skills in software engineering propelled our project to new heights. Their innovative solutions were a game changer for us.",
       color: "#B67DFF",
       icon: "/images/icon/icon_42.svg",
     },
     {
       id: 2,
-      name: "Rashed Ka",
-      location: "USA",
+      name: "Jeff",
+      location: "CANADA",
       rating: 5,
       content:
-        "The passage experienced a surgu popularity during the ios when Letraset used it on their lor bonord dry-transfer sheets &amp; again during the sample.",
+        "Their knowledge in various programming languages and problem-solving skills were invaluable. They consistently delivered quality code on time.",
       color: "#FFBC3A",
       icon: "/images/icon/icon_42.svg",
     },
     {
       id: 3,
-      name: "Martin Jonas",
+      name: "Carla Davis",
       location: "USA",
       rating: 5,
       content:
-        "The passage experienced a surgu popularity during the ios when Letraset used it on their lor bonord dry-transfer sheets &amp; again during the sample.",
+        "Their attention to detail, dedication, and the ability to quickly learn new technologies greatly contributed to the success of our project.",
       color: "#49E5EF",
       icon: "/images/icon/icon_42.svg",
     },
     {
       id: 4,
-      name: "Rashed Ka",
-      location: "USA",
+      name: "David Smith",
+      location: "CANADA",
       rating: 5,
       content:
-        "The passage experienced a surgu popularity during the ios when Letraset used it on their lor bonord dry-transfer sheets &amp; again during the sample.",
+        "They have a clear understanding of software engineering principles. Their capability to work in a team and lead when necessary was impressive.",
       color: "#8F6BF6",
       icon: "/images/icon/icon_42.svg",
     },
