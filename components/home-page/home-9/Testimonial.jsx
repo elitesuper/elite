@@ -42,7 +42,7 @@ const Testimonial = () => {
       location: "CANADA",
       rating: 5,
       content:
-        "Their knowledge in various programming languages and problem-solving skills were invaluable. They consistently delivered quality code on time.",
+        "Their knowledge in various programming languages and problem-solving skills were invaluable.",
       color: "#FFBC3A",
       icon: "/images/icon/icon_42.svg",
     },
