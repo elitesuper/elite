@@ -66,7 +66,7 @@ const Sidebar = () => {
       </div>
       {/* End .sidebar-nav-item */}
 
-      <ul className="d-flex social-icon style-none mt-auto">
+      {/* <ul className="d-flex social-icon style-none mt-auto">
         {socialIcons.map((item, index) => (
           <li key={index}>
             <a href={item.url}>
@@ -74,7 +74,7 @@ const Sidebar = () => {
             </a>
           </li>
         ))}
-      </ul>
+      </ul> */}
 
       <p className="pt-10 fs-15">
         Copyright © {new Date().getFullYear()}{" "}

@@ -196,8 +196,8 @@ const PersonalPortfolio = () => {
 				Counter Section One
 			============================================== 
 			*/}
-      <div className="p-30">
-        <div className="counter-section-one position-relative pt-80 pb-100 lg-pt-50 lg-pb-60">
+      {/* <div className="p-30"> */}
+        {/* <div className="counter-section-one position-relative pt-80 pb-100 lg-pt-50 lg-pb-60">
           <img
             src="/images/shape/shape_64.svg"
             alt="shape"
@@ -222,11 +222,11 @@ const PersonalPortfolio = () => {
             <div className="row">
               <Counter />
             </div>
-          </div>
+          </div> */}
           {/* /.container */}
-        </div>
+        {/* </div> */}
         {/* /.counter-section-one */}
-      </div>
+      {/* </div> */}
 
       {/*
 			=====================================================
