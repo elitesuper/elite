@@ -3,9 +3,9 @@ import { navItems } from "../../../data/menu";
 
 const Sidebar = () => {
   const socialIcons = [
-    { icon: "fab fa-facebook-f", url: "#" },
-    { icon: "fab fa-twitter", url: "#" },
-    { icon: "fab fa-linkedin-in", url: "#" },
+    // { icon: "fab fa-facebook-f", url: "#" },
+    // { icon: "fab fa-twitter", url: "#" },
+    { icon: "fab fa-linkedin-in", url: "https://www.linkedin.com/in/wolfgang-baier-076a482a8/" },
   ];
 
   return (
@@ -66,7 +66,7 @@ const Sidebar = () => {
       </div>
       {/* End .sidebar-nav-item */}
 
-      {/* <ul className="d-flex social-icon style-none mt-auto">
+      <ul className="d-flex social-icon style-none mt-auto">
         {socialIcons.map((item, index) => (
           <li key={index}>
             <a href={item.url}>
@@ -74,7 +74,7 @@ const Sidebar = () => {
             </a>
           </li>
         ))}
-      </ul> */}
+      </ul>
 
       <p className="pt-10 fs-15">
         Copyright © {new Date().getFullYear()}{" "}
