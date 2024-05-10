@@ -16,7 +16,7 @@
     "carousel": "^0.0.3",
     "eslint": "8.31.0",
     "eslint-config-next": "^13.5.4",
-    "next": "^13.5.4",
+    "next": "^14.1.1",
     "photoswipe": "^5.3.7",
     "react": "^18.2.0",
     "react-circular-progressbar": "^2.1.0",
